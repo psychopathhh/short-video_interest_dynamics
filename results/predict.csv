@@ -1,0 +1,8 @@
+model,ndcg
+random,0.3341031054503866
+old tastes,0.4011462017522204
+recent views (lambda=0.999),0.39876741048053477
+old + recent,0.39876741048053477
+video quality,0.5207085828880005
+video quality + old tastes,0.5260870391736729
+video quality + old + recent,0.526680720966943
